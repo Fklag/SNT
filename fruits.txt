@@ -3,4 +3,3 @@ kiwi
 banane
 orange
 abricot
-c'est excellent !
